@@ -1,8 +1,9 @@
 # SerializedInterfaceReference
 Unity3d script to Serialize reference to UnityEngine.Object inherited from interface, with constraints
 
-![](https://github.com/mitay-walle/SerializedInterfaceReference/blob/main/SerializedInterfaceReference.gif)
+[forum discussion about interface serialization](https://forum.unity.com/threads/serialized-interface-fields.1238785/)
 
+![](https://github.com/mitay-walle/SerializedInterfaceReference/blob/main/SerializedInterfaceReference.gif)
 Type switch used in gif by Odin Inspector
 
 ## Problems
