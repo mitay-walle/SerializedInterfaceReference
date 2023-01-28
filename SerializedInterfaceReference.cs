@@ -52,4 +52,6 @@ public class SerializedInterfaceReference<T1, T2> : ISerializationCallbackReceiv
     {
         InterfaceValue = ClassField is T2 field ? field : default;
     }
+    
+    public static implicit operator T1(SerializedInterfaceReference<T1, T2> d) => d._classField;
 }
