@@ -4,6 +4,7 @@ Unity3d script to Serialize reference to UnityEngine.Object inherited from inter
 [forum discussion about interface serialization](https://forum.unity.com/threads/serialized-interface-fields.1238785/)
 
 ![](https://github.com/mitay-walle/SerializedInterfaceReference/blob/main/SerializedInterfaceReference.gif)
+
 Type switch used in gif by Odin Inspector
 
 ## Problems
